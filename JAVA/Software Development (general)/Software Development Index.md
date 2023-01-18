@@ -1,4 +1,5 @@
 Темы:
+
 [Algorithms and Data Structures](https://github.com/NikitinAU/JavaToLearn/blob/main/JAVA/Software%20Development%20(general)/Algorithms%20and%20Data%20Structures%20(Advanced).md)
 
 [Architecture Knowledge](https://github.com/NikitinAU/JavaToLearn/blob/main/JAVA/Software%20Development%20(general)/Architecture%20Knowledge%20(Intern).md)
