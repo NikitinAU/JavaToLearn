@@ -1,0 +1,22 @@
+Java Core:
+![[Core Index]]
+Spring:
+![[Spring Index]]
+
+[[Java 10+ feats]]
+[[JVM, JDK and Tools]]
+[[JakartaEE (JEE, J2EE)]]
+[[Multithreading]]
+[[SQL]]
+[[Hibernate]]
+[[JPA]]
+[[JDBC]]
+[[RDBC]]
+[[BuildTools]]
+[[Cloud Services]]
+[[Caching Systems]]
+[[Containers]]
+[[NOSQL]]
+[[Pub Sub systems]]
+[[RESTful and WebAPI]]
+[[Apache commons, Java Logging Libs, JSON for JAVA]]

@@ -1,0 +1,11 @@
+Темы:
+[[Algorithms and Data Structures (Advanced)]]
+[[Architecture Knowledge (Intern)]]
+[[CICDD (Intern)]]
+[[Bug tracking (Intern)]]
+[[Development Methodologies (Intern)]]
+[[Clean Code (Novice - Intern)]]
+[[TODO Troubleshouting and logging (Intern)]]
+[[Version Control (Intern)]]
+[[Testing (Intern)]]
+[[Estimations (Novice)]]
